@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<result>
+	<value>
+		<no>A1234</no>
+		<address>四川省XX县XX镇XX路X段XX号</address>
+	</value>
+	<value>
+		<no>B1234</no>
+		<address>四川省XX市XX乡XX村XX组</address>
+	</value>
+</result>
